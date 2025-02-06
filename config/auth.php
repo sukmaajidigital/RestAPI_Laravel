@@ -40,6 +40,10 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'aksespost' => [ // Tambahkan ini
+            'driver' => 'session',
+            'provider' => 'users',
+        ],
     ],
 
     /*
